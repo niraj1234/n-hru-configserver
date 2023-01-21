@@ -1,6 +1,6 @@
 spring:
   application:
-    name: HELLO-USER-SERV
+    name: USER-SERVICE
 
 
 
