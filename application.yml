@@ -1,3 +1,9 @@
+spring:
+  application:
+    name: HELLO-USER-SERV
+
+
+
 eureka:
   client:
     register-with-eureka: 'true'
